@@ -12,6 +12,7 @@ This TMUX configuration is inspired by the setup shared by [DreamsOfCode](https:
 ## Cheat sheet:
 
 - Activation prefix: `Space + Control`.
+- To install plugins: `Prefix I`.
 - To list sessions: `Prefix + s`.
 - To detach from the current session: `Prefix + d`.
 - To create a new window: `Prefix + c`.
